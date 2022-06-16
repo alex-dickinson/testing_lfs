@@ -5,7 +5,6 @@ List of commands used in terminal:
 * git init -b main
 * git add test_file1.txt 
 * git commit -m "first commit"
-* git remote origin git@github.com:alex-dickinson/testing_lfs.git
 * git remote add origin git@github.com:alex-dickinson/testing_lfs.git
 * git remote -v
 * git push -u origin main
